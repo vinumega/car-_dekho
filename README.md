@@ -1,7 +1,7 @@
 # Car-Dekho
 **Car Price Prediction using Gradient Boosting Algorithm**
 1. Problem Statement
-Predict the price of a car based on various features such as mileage, make, model, engine size, and year using a gradient boosting algorithm model.
+Predict the price of a car based on various features such as mileage, km driven, model, engine size, and year using a gradient boosting algorithm model.
 
 2. Objective
 To develop a gradient boosting regression model that predicts car prices based on historical sales data and car features.
